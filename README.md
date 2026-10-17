@@ -99,12 +99,6 @@ pengganti `pd.read_excel(nama_file)`.
 -   Heatmap hubungan program studi dan judul buku.
 -   Diagram proporsi peminjaman berdasarkan kelompok usia buku.
 
-## Pengembangan Selanjutnya
-
-Proyek dapat dikembangkan dengan menambahkan filter bulan atau program
-studi, menangani data kosong dan duplikat secara lebih menyeluruh, serta
-membuat dashboard interaktif.
-
 ## Penulis
 
 -   **Nama:** Farma Ardan Dinata Yusana Putra
